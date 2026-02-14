@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MorganicYT/my-website.git/static/css/main.c05a53e8.css",
-    "main.js": "/MorganicYT/my-website.git/static/js/main.c7bda10f.js",
-    "static/js/453.7f709e95.chunk.js": "/MorganicYT/my-website.git/static/js/453.7f709e95.chunk.js",
-    "index.html": "/MorganicYT/my-website.git/index.html",
-    "main.c05a53e8.css.map": "/MorganicYT/my-website.git/static/css/main.c05a53e8.css.map",
-    "main.c7bda10f.js.map": "/MorganicYT/my-website.git/static/js/main.c7bda10f.js.map",
-    "453.7f709e95.chunk.js.map": "/MorganicYT/my-website.git/static/js/453.7f709e95.chunk.js.map"
+    "main.css": "/my-website/static/css/main.c05a53e8.css",
+    "main.js": "/my-website/static/js/main.ca5cdee8.js",
+    "static/js/453.7f709e95.chunk.js": "/my-website/static/js/453.7f709e95.chunk.js",
+    "index.html": "/my-website/index.html",
+    "main.c05a53e8.css.map": "/my-website/static/css/main.c05a53e8.css.map",
+    "main.ca5cdee8.js.map": "/my-website/static/js/main.ca5cdee8.js.map",
+    "453.7f709e95.chunk.js.map": "/my-website/static/js/453.7f709e95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c05a53e8.css",
-    "static/js/main.c7bda10f.js"
+    "static/js/main.ca5cdee8.js"
   ]
 }
