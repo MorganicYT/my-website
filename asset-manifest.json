@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MorganicYT/my-website/static/css/main.c05a53e8.css",
+    "main.js": "/MorganicYT/my-website/static/js/main.56bd5c60.js",
+    "static/js/453.7f709e95.chunk.js": "/MorganicYT/my-website/static/js/453.7f709e95.chunk.js",
+    "index.html": "/MorganicYT/my-website/index.html",
+    "main.c05a53e8.css.map": "/MorganicYT/my-website/static/css/main.c05a53e8.css.map",
+    "main.56bd5c60.js.map": "/MorganicYT/my-website/static/js/main.56bd5c60.js.map",
+    "453.7f709e95.chunk.js.map": "/MorganicYT/my-website/static/js/453.7f709e95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05a53e8.css",
+    "static/js/main.56bd5c60.js"
+  ]
+}
